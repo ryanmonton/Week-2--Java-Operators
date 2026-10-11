@@ -13,7 +13,7 @@ class Codechef {
         
         System.out.println("Expression 1: 7 + 7 >= 10 ");
         System.out.println("Predicted: true");
-        System.out.println("Actual: " + (5 + 5 >= 8));
+        System.out.println("Actual: " + (7 + 7 >= 10));
         // CORRECT: Addition (+) happens before comparison (>=)
         
         System.out.println();
